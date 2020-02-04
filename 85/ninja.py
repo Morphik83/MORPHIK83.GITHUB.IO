@@ -10,7 +10,7 @@ class NinjaBelt:
         self._last_earned_belt = None
 
     def _get_belt(self, new_score):
-        """Might be a useful helper"""
+        """Might be a useful helper."""
         pass
 
     def _get_score(self):
